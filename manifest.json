@@ -2,10 +2,5 @@
   "name": "BlorpApp",
   "scope": "/minimal-pwa/",
   "start_url": "/minimal-pwa",
-  "icons": [
-    {
-      "src": "icon.png"
-    }
-  ],
   "display": "fullscreen"
 } 
